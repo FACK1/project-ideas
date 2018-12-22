@@ -1,5 +1,5 @@
 # project-ideas
-A repository of project ideas for the first round of FACK1 projects (copied from the FAC15 repo [here](https://github.com/fac-15/project-ideas)
+A repository of project ideas for the first round of FACK1 projects (copied from the FAC15 repo [here](https://github.com/fac-15/project-ideas))
 
 ## Contributing
 
@@ -47,3 +47,6 @@ They have family who help them, but family members don't always communicate well
 Care homes can provide for people with dementia, but this can mean that they see less of their family and forget about them.
 
 <hr />
+
+
+[Issue that links to FAC15's ideas](https://github.com/FACK1/project-ideas/issues/1)
