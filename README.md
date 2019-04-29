@@ -1,11 +1,13 @@
 # project-ideas
-A repository of project ideas for FACN5 projects (copied from the FAC15 repo [here](https://github.com/fac-15/project-ideas))
+A repository of project ideas for the first round of FACK1 projects (copied from the FAC15 repo [here](https://github.com/fac-15/project-ideas))
 
 ## Contributing
 
+Every member of FACK1 is encouraged to contribute an issue, although you are not required to.
+
 Please contribute by opening an issue and filling in the template.
 
-These ideas should be formulated as **problems, not solutions**, so even if you do have an idea in mind about how to solve this, you should explore how to solve this issue **as a team** once projects have been selected.
+We're looking for **problems, not solutions**, so even if you do have an idea in mind about how to solve this, you should explore how to solve this issue **as a team** once projects have been selected.
 
 You can contribute more than one issue if you like.
 
